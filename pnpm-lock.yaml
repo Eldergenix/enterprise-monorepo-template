@@ -210,8 +210,8 @@ importers:
   packages/create-enterprise-monorepo:
     dependencies:
       degit:
-        specifier: ^2.8.4
-        version: 2.8.4
+        specifier: ^2.8.6
+        version: 2.8.6
       kleur:
         specifier: ^4.1.5
         version: 4.1.5
@@ -3046,8 +3046,8 @@ packages:
     resolution: {integrity: sha512-N+MeXYoqr3pOgn8xfyRPREN7gHakLYjhsHhWGT3fWAiL4IkAt0iDw14QiiEm2bE30c5XX5q0FtAA3CK5f9/BUg==}
     engines: {node: '>=12'}
 
-  degit@2.8.4:
-    resolution: {integrity: sha512-vqYuzmSA5I50J882jd+AbAhQtgK6bdKUJIex1JNfEUPENCgYsxugzKVZlFyMwV4i06MmnV47/Iqi5Io86zf3Ng==}
+  degit@2.8.6:
+    resolution: {integrity: sha512-UzjEf67itNZtQF4ZFSNYT+JY78VKtkRJPnksn1tVDAX74Ar0zMqnB5UvsiAjIOBiIHv3BbAPCEJDn/zasbV5rw==}
     engines: {node: '>=8.0.0'}
     hasBin: true
 
@@ -8822,7 +8822,7 @@ snapshots:
 
   define-lazy-prop@3.0.0: {}
 
-  degit@2.8.4: {}
+  degit@2.8.6: {}
 
   depd@2.0.0: {}
 
